@@ -1,6 +1,6 @@
 
 ;
-; https://github.com/sage-etcher/i8080timer.git
+; https://github.com/sage-etcher/nsadv-timeout.git
 ;
 
 ;
